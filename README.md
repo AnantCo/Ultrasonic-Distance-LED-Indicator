@@ -16,7 +16,8 @@ This Arduino project utilizes the HC-SR04 ultrasonic sensor to measure the dista
 6. Breadboard
 
 ## Circuit Diagram
-[Add a circuit diagram here, if available.]
+![ultrasonic with led](https://github.com/user-attachments/assets/561911b0-512d-4bf8-b6fe-4b05d2a72ba2)
+
 
 ## Code
 The code is written in Arduino IDE. Simply upload the provided code to your Arduino board.
